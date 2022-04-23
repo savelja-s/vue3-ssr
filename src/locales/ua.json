@@ -1,0 +1,40 @@
+{
+  "empty-page": "Сторінка порожня",
+  "menu": {
+    "home": "Головна",
+    "info": "Інормація",
+    "about": "Про нас",
+    "preorder-comics": "Попередній продаж",
+    "comics": "Комікси"
+  },
+  "buttons": {
+    "logout": "Вихід",
+    "login": "Вхід"
+  },
+  "footer-text": "Потрібно наповнити",
+  "comic": {
+    "description-title": "Опис",
+    "publisher-title": "Видавець",
+    "price-title": "Ціна",
+    "view-more-button": "Дізнатись більше",
+    "back-button": "Назад до списку",
+    "add-to-cart-button": "Додати до кошика",
+    "details": "Детально"
+  },
+  "search": "Пошук",
+  "tooltip": "Змінити вигляд",
+  "cart": {
+    "notify": {
+      "add": {
+        "title": "Додано до кошика",
+        "message": "Ви успішно додади до кошика Ла ла"
+      },
+      "remove": {
+        "title": "Видалено з корзини",
+        "message": "Продукт було видалено."
+      }
+    }
+  },
+  "publishers": "Видавці",
+  "all": "Всі"
+}

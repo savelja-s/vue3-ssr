@@ -1,0 +1,40 @@
+{
+  "empty-page": "Empty page",
+  "menu": {
+    "home": "Home",
+    "info": "Info",
+    "about": "About",
+    "preorder-comics": "Preorder Comics",
+    "comics": "Comics"
+  },
+  "buttons": {
+    "logout": "Logout",
+    "login": "Login"
+  },
+  "footer-text": "Some text footer",
+  "comic": {
+    "description-title": "Description",
+    "publisher-title": "Publisher",
+    "price-title": "Price",
+    "view-more-button": "More",
+    "back-button": "Back to list",
+    "add-to-cart-button": "Add to cart",
+    "details": "Details"
+  },
+  "search": "Search",
+  "tooltip": "Change view",
+  "cart": {
+    "notify": {
+      "add": {
+        "title": "Add to the cart",
+        "message": "The product was added to the cart."
+      },
+      "remove": {
+        "title": "Remove with cart",
+        "message": "The product was removed with the cart."
+      }
+    }
+  },
+  "publishers": "Publishers",
+  "all": "All"
+}
